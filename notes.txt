@@ -1,0 +1,2 @@
+Ghi chu thuc hanh Git
+Ghi chu moi cho bai thuc hanh Git
