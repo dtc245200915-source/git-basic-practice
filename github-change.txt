@@ -1,0 +1,2 @@
+# Git Basic Practice
+File nay duoc tao truc tiep tren GitHub de thuc hanh git pull.
